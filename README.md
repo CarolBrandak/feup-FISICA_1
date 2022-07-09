@@ -2,7 +2,7 @@
 
 FEUP - Física 1 2021/2022
 
-Resoluções dos Mini-Testes
+Resoluções dos Mini-Testes e Exames
 
 ## Mini-Teste 1
 
@@ -14,3 +14,6 @@ Resoluções dos Mini-Testes
 + 2016 - Todos os exercicios
 + 2020 - Exercicios dos capitulos do 6-10
  
+## Exames
+
++ 2022 - Epoca Normal
