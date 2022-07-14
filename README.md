@@ -17,3 +17,5 @@ Possíveis resoluções dos Mini-Testes e Exames
 ## Exames
 
 + 2022 - Epoca Normal
++ 2021 - Epoca Normal (não contém os exercícios 1 e 2 e o exercicio 6 não está completo)
++ 2021 - Epoca Recurso
